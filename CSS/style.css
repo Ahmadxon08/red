@@ -1,0 +1,52 @@
+.heading {
+  text-align: center;
+  background-color: #282a35;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  word-spacing: 20px;
+}
+.link-style {
+  text-decoration: none;
+  color: white;
+}
+.button-style {
+  color: white;
+  background-color: rgb(84, 183, 84);
+  tab-size: 25px;
+  font-size: 18px;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.new {
+  background-color: rgb(217, 238, 225);
+}
+.button-style2 {
+  color: white;
+  background-color: black;
+  tab-size: 25px;
+  font-size: 18px;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.new2 {
+  font-size: 25px;
+}
+.ex1 {
+  font-size: 25px;
+}
+.button-style3 {
+  color: white;
+  background-color: rgb(63, 167, 63);
+  tab-size: 20px;
+  font-size: 18px;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.
